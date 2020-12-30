@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Arif Khan</title>
+    <link>https://arifulkhan.github.io/publication/</link>
+      <atom:link href="https://arifulkhan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Arif Khan©2020</copyright><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arifulkhan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://arifulkhan.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Distributed Travel Time Estimation Capability for Metropolitan-sized Road Transportation Networks</title>
+      <link>https://arifulkhan.github.io/publication/18/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street-level Travel-time Estimation via Aggregated Uber Data</title>
+      <link>https://arifulkhan.github.io/publication/17/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Analytics and Optimization Methods for Insights from the Uber Movement Data</title>
+      <link>https://arifulkhan.github.io/publication/15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Arbitrarily Sparse Two-body Interactions on One-dimensional Quantum Circuits</title>
+      <link>https://arifulkhan.github.io/publication/16/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Anonymization of Data using b-Edge Cover</title>
+      <link>https://arifulkhan.github.io/publication/14/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approximation Algorithms for Minimum Weighted Edge Cover</title>
+      <link>https://arifulkhan.github.io/publication/13/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Louvain Algorithm for Graph Community Detection.</title>
+      <link>https://arifulkhan.github.io/publication/11/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Algorithms through Approximation: b-Edge Cover.</title>
+      <link>https://arifulkhan.github.io/publication/12/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new 3/2-approximation algorithm for b-Edge Cover Problem</title>
+      <link>https://arifulkhan.github.io/publication/9/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Scalable b-MATCHING Algorithms on Distributed Memory Multiprocessors by Approximation</title>
+      <link>https://arifulkhan.github.io/publication/10/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codesign Lessons Learned from Implementing Graph Matching on Multithreaded Architectures.</title>
+      <link>https://arifulkhan.github.io/publication/7/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient approximation algorithms for weighted b-Matching. SIAM Journal on Scientific Computing</title>
+      <link>https://arifulkhan.github.io/publication/8/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying Immunophenotypes with Templates from Flow Cytometry</title>
+      <link>https://arifulkhan.github.io/publication/6/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multithreaded Algorithm for Network Alignment via Approximate Matching.</title>
+      <link>https://arifulkhan.github.io/publication/5/</link>
+      <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multithreaded Algorithms for Maximum Matching in Bipartite Graphs.</title>
+      <link>https://arifulkhan.github.io/publication/4/</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Reasoning between Complex Regions in Databases with Frequent Updates</title>
+      <link>https://arifulkhan.github.io/publication/3/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBLOB: Complex Object Management in Databases Through Intelligent BLOB</title>
+      <link>https://arifulkhan.github.io/publication/2/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Object Database Technology for Ad-Hoc Querying and Satellite Data Retrieval of Dynamic Atmospheric Events</title>
+      <link>https://arifulkhan.github.io/publication/1/</link>
+      <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

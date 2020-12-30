@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arif Khan</title>
+    <link>https://arifulkhan.github.io/</link>
+      <atom:link href="https://arifulkhan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arif Khan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Arif Khan©2020</copyright><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arifulkhan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Arif Khan</title>
+      <link>https://arifulkhan.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Distributed Travel Time Estimation Capability for Metropolitan-sized Road Transportation Networks</title>
+      <link>https://arifulkhan.github.io/publication/18/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street-level Travel-time Estimation via Aggregated Uber Data</title>
+      <link>https://arifulkhan.github.io/publication/17/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Analytics and Optimization Methods for Insights from the Uber Movement Data</title>
+      <link>https://arifulkhan.github.io/publication/15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Arbitrarily Sparse Two-body Interactions on One-dimensional Quantum Circuits</title>
+      <link>https://arifulkhan.github.io/publication/16/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Anonymization of Data using b-Edge Cover</title>
+      <link>https://arifulkhan.github.io/publication/14/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approximation Algorithms for Minimum Weighted Edge Cover</title>
+      <link>https://arifulkhan.github.io/publication/13/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Louvain Algorithm for Graph Community Detection.</title>
+      <link>https://arifulkhan.github.io/publication/11/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Algorithms through Approximation: b-Edge Cover.</title>
+      <link>https://arifulkhan.github.io/publication/12/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://arifulkhan.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new 3/2-approximation algorithm for b-Edge Cover Problem</title>
+      <link>https://arifulkhan.github.io/publication/9/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Scalable b-MATCHING Algorithms on Distributed Memory Multiprocessors by Approximation</title>
+      <link>https://arifulkhan.github.io/publication/10/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codesign Lessons Learned from Implementing Graph Matching on Multithreaded Architectures.</title>
+      <link>https://arifulkhan.github.io/publication/7/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient approximation algorithms for weighted b-Matching. SIAM Journal on Scientific Computing</title>
+      <link>https://arifulkhan.github.io/publication/8/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying Immunophenotypes with Templates from Flow Cytometry</title>
+      <link>https://arifulkhan.github.io/publication/6/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multithreaded Algorithm for Network Alignment via Approximate Matching.</title>
+      <link>https://arifulkhan.github.io/publication/5/</link>
+      <pubDate>Sun, 09 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multithreaded Algorithms for Maximum Matching in Bipartite Graphs.</title>
+      <link>https://arifulkhan.github.io/publication/4/</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Reasoning between Complex Regions in Databases with Frequent Updates</title>
+      <link>https://arifulkhan.github.io/publication/3/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBLOB: Complex Object Management in Databases Through Intelligent BLOB</title>
+      <link>https://arifulkhan.github.io/publication/2/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Object Database Technology for Ad-Hoc Querying and Satellite Data Retrieval of Dynamic Atmospheric Events</title>
+      <link>https://arifulkhan.github.io/publication/1/</link>
+      <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://arifulkhan.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
