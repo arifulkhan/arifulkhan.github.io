@@ -145,6 +145,28 @@ a:hover {
   margin-top: 0.25rem;
 }
 
+.project-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.project-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.project-card p {
+  margin: 0.35rem 0;
+}
+
 .pub-list {
   margin: 0;
   padding-left: 1rem;

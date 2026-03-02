@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Arif Khan | Computer Scientist</title>
-  <meta name="description" content="Arif Khan - Computer Scientist at Pacific Northwest National Laboratory">
+  <title>Arif Khan | Computer Scientist, Software Engineer</title>
+  <meta name="description" content="Arif Khan - Computer Scientist, Software Engineer at Meta Platforms">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,6 +14,7 @@
       <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu" aria-expanded="false">Menu</button>
       <nav id="main-nav" class="main-nav">
         <a href="#about">Home</a>
+        <a href="#projects">Projects</a>
         <a href="assets/docs/resume.pdf" target="_blank" rel="noopener">CV</a>
         <a href="#publications">Publications</a>
         <a href="#contact">Contact</a>
@@ -27,8 +28,8 @@
         <aside class="profile-card">
           <img src="assets/images/avatar.jpg" alt="Arif Khan" class="avatar">
           <h1>Arif Khan</h1>
-          <p class="role">Computer Scientist</p>
-          <p><a href="https://www.pnnl.gov/" target="_blank" rel="noopener">Pacific Northwest National Laboratory</a></p>
+          <p class="role">Computer Scientist, Software Engineer</p>
+          <p><a href="https://about.meta.com/" target="_blank" rel="noopener">Meta Platforms</a></p>
           <ul class="links">
             <li><a href="#contact">Email</a></li>
             <li><a href="https://scholar.google.com/citations?user=s1IzhYMAAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
@@ -49,10 +50,11 @@
             <section>
               <h3>Interests</h3>
               <ul>
-                <li>Complex Network Analysis</li>
-                <li>Artifical Intelligence</li>
-                <li>High Performance Computing</li>
-                <li>Bioinformatics</li>
+                <li>Distributed Training</li>
+                <li>Combinatorial Optimization</li>
+                <li>Operations Research</li>
+                <li>Supply Chain Optimization</li>
+                <li>AI4Science</li>
               </ul>
             </section>
             <section>
@@ -74,6 +76,50 @@
             </section>
           </div>
         </article>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="container section-grid">
+        <div class="section-title">
+          <h2>Projects</h2>
+        </div>
+        <div class="project-grid">
+          <article class="project-card">
+            <h3><a href="https://github.com/arifulkhan/bMatching" target="_blank" rel="noopener">bMatching</a></h3>
+            <p><strong>Details:</strong> This project implements b-Suitor, a half-approximation algorithm for maximum weight b-matching in weighted graphs, where each vertex has a degree budget. The implementation targets large sparse inputs in Matrix Market format and supports configurable matching modes.</p>
+            <p><strong>Major Contributions:</strong> The code operationalizes the SIAM SISC 2016 method with practical data structures for scalable matching and verification. It provides a reproducible baseline for studying approximation quality and runtime behavior on very large graphs.</p>
+            <p><strong>Summary Result:</strong> The implementation demonstrates very fast convergence in iterative refinement and produces high-quality weighted matchings, making it useful for large network optimization workloads.</p>
+          </article>
+
+          <article class="project-card">
+            <h3><a href="https://github.com/arifulkhan/distMatching" target="_blank" rel="noopener">distMatching</a></h3>
+            <p><strong>Details:</strong> distMatching extends b-Suitor to distributed-memory systems using hybrid MPI+OpenMP parallelism. The design follows asynchronous supersteps to overlap computation and communication for high concurrency.</p>
+            <p><strong>Major Contributions:</strong> The project introduces communication-reduction strategies and scalable scheduling choices that improve strong and weak scaling behavior on supercomputers. It turns an approximation algorithm into a production-grade distributed implementation.</p>
+            <p><strong>Summary Result:</strong> As reported in SC'16, the method computes b-matching on graphs with up to 2 billion edges in under 4 seconds on 16K processors, showing high-end distributed performance.</p>
+          </article>
+
+          <article class="project-card">
+            <h3><a href="https://github.com/arifulkhan/netAlign" target="_blank" rel="noopener">netAlign</a></h3>
+            <p><strong>Details:</strong> netAlign focuses on network alignment via approximate matching with multithreaded and Python-accessible implementations. The repository combines algorithmic kernels with an OpenMP path and Python workflow support.</p>
+            <p><strong>Major Contributions:</strong> The work translates the SC'12 network alignment approach into runnable software components suitable for experimentation and integration. It enables practical testing of alignment quality across graph datasets and mapping scenarios.</p>
+            <p><strong>Summary Result:</strong> The implementation provides an efficient route to approximate network alignment on modern multicore systems while keeping the workflow flexible for research extensions.</p>
+          </article>
+
+          <article class="project-card">
+            <h3><a href="https://github.com/arifulkhan/QMAP" target="_blank" rel="noopener">QMAP</a></h3>
+            <p><strong>Details:</strong> QMAP implements algorithms for mapping sparse one-body and two-body interactions onto one-dimensional quantum circuit layouts. It combines assignment, matching, and ordering strategies tailored to sparse Hamiltonians.</p>
+            <p><strong>Major Contributions:</strong> Based on the HiPC 2019 work, the project unifies MINLA/matching for one-body terms and HOLA/partial distance-2 coloring for two-body terms in one workflow. This design directly targets utilization and execution efficiency on constrained qubit connectivity.</p>
+            <p><strong>Summary Result:</strong> Reported outcomes include up to 100% improvement for one-body mapping over prior methods and up to 86% utilization for two-body terms relative to theoretical peak.</p>
+          </article>
+
+          <article class="project-card">
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta Project</a></h3>
+            <p><strong>Details:</strong> This section is reserved for your Meta project summary based on the shared document.</p>
+            <p><strong>Major Contributions:</strong> I could not access the document text from this environment because Google sign-in/cookie access is required.</p>
+            <p><strong>Summary Result:</strong> Share the doc content here (or set it fully public) and I will replace this with your requested <=10 sentence final summary.</p>
+          </article>
+        </div>
       </div>
     </section>
 
