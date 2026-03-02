@@ -114,66 +114,45 @@
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: WhatsApp ML Platform - Feature Engineering & TextRay Migration</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">WhatsApp ML Platform - Feature Engineering & TextRay Migration</a></h3>
             <p><strong>Details:</strong> Built ML feature pipelines for WhatsApp Business Integrity, including recidivism, WABA lifecycle, and device signals for fraud/scam detection workflows.</p>
             <p><strong>Major Contributions:</strong> Led end-to-end TextRay migration from V20211208 to V20221219 with versioned embedding banks, phased JustKnobs rollout, and multi-version infrastructure across business entities.</p>
             <p><strong>Summary Result:</strong> Migration shipped with zero downtime and improved model data quality through label filtering and onboarding-ban handling in BM scam training.</p>
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: MTIA/Athena Amodel - Elastic DLRM Training</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">MTIA/Athena Amodel - Elastic DLRM Training</a></h3>
             <p><strong>Details:</strong> Built elastic distributed DLRM training for Meta's network-isolated Athena/MTIA Amodel environments where standard internal services are unavailable.</p>
             <p><strong>Major Contributions:</strong> Implemented custom launchers, trainers, module providers, TCP Store rendezvous, aten.fmod backend support, and graph-mode paths including AOT Autograd and TBE kernel work.</p>
             <p><strong>Summary Result:</strong> Delivered the first elastic HPC-style DLRM training workload on Athena silicon with improved backend operator parity and production-ready testing.</p>
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: MCP Capacity Planning Solver - Time-Based Decomposition</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">MCP Capacity Planning Solver - Time-Based Decomposition</a></h3>
             <p><strong>Details:</strong> Designed Time-Based Decomposition for long-horizon datacenter planning by splitting large MIP formulations into sliding quarterly windows.</p>
             <p><strong>Major Contributions:</strong> Built iterative solve/merge framework, added scaling corrections and tests, automated hardware refresh output generation, and stabilized constraints with adaptive relaxations.</p>
             <p><strong>Summary Result:</strong> Enabled practical 4-5 year planning horizons, reduced infeasibility incidents, and replaced manual reporting steps with validated automated pipelines.</p>
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: OPAL Solver - Performance Optimization</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">OPAL Solver - Performance Optimization</a></h3>
             <p><strong>Details:</strong> Optimized OPAL expression-graph execution for very large graphs (137M nodes, 272M edges) and multi-objective optimization workflows.</p>
             <p><strong>Major Contributions:</strong> Reworked recursive traversal to iterative postorder, merged multi-pass traversal into callback-driven single pass, and removed massive child-vector allocations via index-based APIs.</p>
             <p><strong>Summary Result:</strong> Improved BuildEvaluatorContext runtime by about 2.7x (154s to 57s), and added per-objective solver time limits and expression-layer correctness fixes.</p>
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: TAPS Custom Expressions & Opal Explorer Integration</a></h3>
-            <p><strong>Details:</strong> Built custom OPAL expressions and evaluator support for Temporal Assignment Problem Solver workflows and interactive analysis in Opal Explorer.</p>
-            <p><strong>Major Contributions:</strong> Implemented AttributeMap/AttributeUtil, AssignmentEvaluateContext, external solution import/compare, partial evaluation overrides, and benchmarked high-rate evaluation paths.</p>
-            <p><strong>Summary Result:</strong> Reduced model complexity from cubic-style growth to quadratic structure and enabled practical visual debugging and comparison of placement decisions.</p>
-          </article>
-
-          <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: TAPS HW Placement Solver - Multi-Use-Case Move Engine</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">TAPS HW Placement Solver - Multi-Use-Case Move Engine</a></h3>
             <p><strong>Details:</strong> Architected a unified TAPS hardware placement and move framework supporting placement, retread move, rack saves, defrag move, and ad-hoc scenarios.</p>
             <p><strong>Major Contributions:</strong> Implemented staged candidate generation/model building, global move accounting, refined hard/soft/goal constraint handling, and fixed parallel evaluation edge cases.</p>
             <p><strong>Summary Result:</strong> Delivered measurable production outcomes including successful rack evacuation and large-scale defrag moves with objective improvements.</p>
           </article>
 
           <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: TAPS C++ Migration - Python to C++ via Cython</a></h3>
-            <p><strong>Details:</strong> Led migration of core TAPS entity and expression-building layers from Python to C++ with Cython bindings and compatibility paths.</p>
-            <p><strong>Major Contributions:</strong> Built HWPIdStore/Universe abstractions, added cached expression builders, created dual-path shadow validation, and completed broad rename/refactor across C++, Cython, Python, and BUCK targets.</p>
-            <p><strong>Summary Result:</strong> Achieved strong correctness parity on production-like inputs with fast validation runs and a clean foundation for continued performance scaling.</p>
-          </article>
-
-          <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: SCX - LLC-Aware Thread Scheduling on Bergamo</a></h3>
+            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">SCX - LLC-Aware Thread Scheduling on Bergamo</a></h3>
             <p><strong>Details:</strong> Built experimental sched_ext (SCX) infrastructure for LLC-aware thread scheduling and workload pinning experiments on Bergamo servers.</p>
             <p><strong>Major Contributions:</strong> Implemented CPU/LLC hint propagation, automated deployment/run/restore scripts, and designed decoupled thread-pinning logic with hard/soft cache modes.</p>
             <p><strong>Summary Result:</strong> Demonstrated up to 80% throughput gain in benchmark conditions (13 GBps to 23 GBps) with reproducible experiment pipelines.</p>
-          </article>
-
-          <article class="project-card">
-            <h3><a href="https://docs.google.com/document/d/1kgPQhPpB9GT39_WrVTbJELQHSlunWEYQlU34MWZ8xvQ/edit?usp=sharing" target="_blank" rel="noopener">Meta: Rebalancer - Equivalence Set Matching</a></h3>
-            <p><strong>Details:</strong> Implemented equivalence-set matching for server rebalancing decisions using similarity-weighted graph matching across host groups.</p>
-            <p><strong>Major Contributions:</strong> Added a greedy heavy-edge strategy with Jaccard-style scoring and built parameterized end-to-end random test generation across capacity/network scenarios.</p>
-            <p><strong>Summary Result:</strong> Produced reliable mappings for consolidation decisions and moved the test harness into benchmark flows for continuous performance tracking.</p>
           </article>
         </div>
       </div>
